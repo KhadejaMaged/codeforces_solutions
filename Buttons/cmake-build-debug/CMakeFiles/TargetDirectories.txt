@@ -1,0 +1,3 @@
+D:/problem solving/level1/Buttons/cmake-build-debug/CMakeFiles/Buttons.dir
+D:/problem solving/level1/Buttons/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/Buttons/cmake-build-debug/CMakeFiles/rebuild_cache.dir

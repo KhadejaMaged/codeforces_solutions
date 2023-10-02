@@ -1,0 +1,3 @@
+D:/problem solving/level1/A. To My Critics/cmake-build-debug/CMakeFiles/A__To_My_Critics.dir
+D:/problem solving/level1/A. To My Critics/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/A. To My Critics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

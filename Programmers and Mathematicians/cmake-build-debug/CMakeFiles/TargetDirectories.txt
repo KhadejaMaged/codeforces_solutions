@@ -1,0 +1,3 @@
+D:/problem solving/level2/ Programmers and Mathematicians/cmake-build-debug/CMakeFiles/_Programmers_and_Mathematicians.dir
+D:/problem solving/level2/ Programmers and Mathematicians/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level2/ Programmers and Mathematicians/cmake-build-debug/CMakeFiles/rebuild_cache.dir

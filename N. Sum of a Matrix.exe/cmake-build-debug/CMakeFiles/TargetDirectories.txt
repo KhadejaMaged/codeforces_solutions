@@ -1,0 +1,3 @@
+D:/problem solving/level1/N. Sum of a Matrix.exe/cmake-build-debug/CMakeFiles/N__Sum_of_a_Matrix_exe.dir
+D:/problem solving/level1/N. Sum of a Matrix.exe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/N. Sum of a Matrix.exe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

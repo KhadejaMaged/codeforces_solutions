@@ -1,0 +1,3 @@
+D:/problem solving/level2/Sequence Game/cmake-build-debug/CMakeFiles/Sequence_Game.dir
+D:/problem solving/level2/Sequence Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level2/Sequence Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

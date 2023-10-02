@@ -1,0 +1,3 @@
+D:/problem solving/level1/F. Print Even Indices/cmake-build-debug/CMakeFiles/F__Print_Even_Indices.dir
+D:/problem solving/level1/F. Print Even Indices/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/F. Print Even Indices/cmake-build-debug/CMakeFiles/rebuild_cache.dir

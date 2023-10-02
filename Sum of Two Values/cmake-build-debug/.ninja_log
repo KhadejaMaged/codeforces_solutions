@@ -1,0 +1,11 @@
+# ninja log v5
+0	475	7141473783208743	CMakeFiles/Sum_of_Two_Values.dir/main.cpp.obj	34bdcc1b6f95964d
+478	742	7141473785824578	Sum_of_Two_Values.exe	84b0393f2a89a8a
+5	2331	7141476962888131	CMakeFiles/Sum_of_Two_Values.dir/main.cpp.obj	34bdcc1b6f95964d
+2332	2448	7141476964037078	Sum_of_Two_Values.exe	84b0393f2a89a8a
+4	1566	7141516267094134	CMakeFiles/Sum_of_Two_Values.dir/main.cpp.obj	34bdcc1b6f95964d
+1566	1690	7141516268315551	Sum_of_Two_Values.exe	84b0393f2a89a8a
+3	1605	7141516875149264	CMakeFiles/Sum_of_Two_Values.dir/main.cpp.obj	34bdcc1b6f95964d
+1606	1709	7141516876164693	Sum_of_Two_Values.exe	84b0393f2a89a8a
+4	1722	7141517376795461	CMakeFiles/Sum_of_Two_Values.dir/main.cpp.obj	34bdcc1b6f95964d
+1722	1856	7141517378109577	Sum_of_Two_Values.exe	84b0393f2a89a8a

@@ -1,0 +1,3 @@
+D:/problem solving/level1/A. green_gold_dog, array and permutation/cmake-build-debug/CMakeFiles/A__green_gold_dog__array_and_permutation.dir
+D:/problem solving/level1/A. green_gold_dog, array and permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/A. green_gold_dog, array and permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

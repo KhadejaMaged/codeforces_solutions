@@ -1,0 +1,3 @@
+D:/problem solving/level1/B. Wonder Room/cmake-build-debug/CMakeFiles/B__Wonder_Room.dir
+D:/problem solving/level1/B. Wonder Room/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/B. Wonder Room/cmake-build-debug/CMakeFiles/rebuild_cache.dir

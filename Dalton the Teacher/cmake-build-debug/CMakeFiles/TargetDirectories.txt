@@ -1,0 +1,3 @@
+D:/problem solving/level1/Dalton the Teacher/cmake-build-debug/CMakeFiles/Dalton_the_Teacher.dir
+D:/problem solving/level1/Dalton the Teacher/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/Dalton the Teacher/cmake-build-debug/CMakeFiles/rebuild_cache.dir

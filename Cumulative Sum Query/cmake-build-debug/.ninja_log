@@ -1,0 +1,27 @@
+# ninja log v5
+1	1717	7155595260365337	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1722	1822	7155595261411601	Cumulative_Sum_Query.exe	539831602f15dd07
+3	1635	7155595391229496	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1635	1737	7155595392243148	Cumulative_Sum_Query.exe	539831602f15dd07
+4	1939	7155598107835233	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1939	2065	7155598109088804	Cumulative_Sum_Query.exe	539831602f15dd07
+6	1855	7155598380040591	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1856	1989	7155598381361403	Cumulative_Sum_Query.exe	539831602f15dd07
+4	1664	7155598960825461	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1673	1807	7155598962202768	Cumulative_Sum_Query.exe	539831602f15dd07
+5	1792	7155600450676781	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1793	1906	7155600451796733	Cumulative_Sum_Query.exe	539831602f15dd07
+4	1553	7155601152353736	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1554	1663	7155601153417106	Cumulative_Sum_Query.exe	539831602f15dd07
+4	1809	7155608560733852	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1810	1939	7155608561988775	Cumulative_Sum_Query.exe	539831602f15dd07
+4	1814	7155608896489044	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1814	1938	7155608897733585	Cumulative_Sum_Query.exe	539831602f15dd07
+5	1830	7155609817240412	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1830	1961	7155609818545443	Cumulative_Sum_Query.exe	539831602f15dd07
+7	1993	7155611165011510	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1993	2129	7155611166338967	Cumulative_Sum_Query.exe	539831602f15dd07
+5	3461	7155611566965102	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+3461	3654	7155611568898034	Cumulative_Sum_Query.exe	539831602f15dd07
+8	1559	7155611861989438	CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.obj	c900824dad88dbb5
+1559	1682	7155611863187450	Cumulative_Sum_Query.exe	539831602f15dd07

@@ -1,0 +1,3 @@
+D:/problem solving/level1/E. Base Converssion/cmake-build-debug/CMakeFiles/E__Base_Converssion_.dir
+D:/problem solving/level1/E. Base Converssion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/E. Base Converssion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

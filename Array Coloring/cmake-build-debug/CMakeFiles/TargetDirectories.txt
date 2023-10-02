@@ -1,0 +1,3 @@
+D:/problem solving/level1/Array Coloring/cmake-build-debug/CMakeFiles/Array_Coloring.dir
+D:/problem solving/level1/Array Coloring/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/Array Coloring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

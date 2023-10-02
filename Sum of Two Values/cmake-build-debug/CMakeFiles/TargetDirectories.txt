@@ -1,0 +1,3 @@
+D:/problem solving/level2/Sum of Two Values/cmake-build-debug/CMakeFiles/Sum_of_Two_Values.dir
+D:/problem solving/level2/Sum of Two Values/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level2/Sum of Two Values/cmake-build-debug/CMakeFiles/rebuild_cache.dir

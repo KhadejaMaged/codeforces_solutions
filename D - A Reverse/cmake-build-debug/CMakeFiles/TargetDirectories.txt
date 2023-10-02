@@ -1,0 +1,3 @@
+D:/problem solving/level1/D - A Reverse/cmake-build-debug/CMakeFiles/D___A_Reverse.dir
+D:/problem solving/level1/D - A Reverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/D - A Reverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

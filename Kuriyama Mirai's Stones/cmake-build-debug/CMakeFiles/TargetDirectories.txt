@@ -1,0 +1,3 @@
+D:/problem solving/level2/Kuriyama Mirai's Stones/cmake-build-debug/CMakeFiles/Kuriyama_Mirai_s_Stones.dir
+D:/problem solving/level2/Kuriyama Mirai's Stones/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level2/Kuriyama Mirai's Stones/cmake-build-debug/CMakeFiles/rebuild_cache.dir

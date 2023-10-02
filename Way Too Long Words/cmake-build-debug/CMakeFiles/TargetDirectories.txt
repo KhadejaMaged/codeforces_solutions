@@ -1,0 +1,3 @@
+D:/problem solving/level1/Way Too Long Words/cmake-build-debug/CMakeFiles/Way_Too_Long_Words_.dir
+D:/problem solving/level1/Way Too Long Words/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/Way Too Long Words/cmake-build-debug/CMakeFiles/rebuild_cache.dir

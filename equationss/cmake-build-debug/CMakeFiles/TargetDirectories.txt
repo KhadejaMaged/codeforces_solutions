@@ -1,0 +1,3 @@
+D:/problem solving/level2/equationss/cmake-build-debug/CMakeFiles/equationss.dir
+D:/problem solving/level2/equationss/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level2/equationss/cmake-build-debug/CMakeFiles/rebuild_cache.dir

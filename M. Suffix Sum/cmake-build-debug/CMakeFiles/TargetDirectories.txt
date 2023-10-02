@@ -1,0 +1,3 @@
+D:/problem solving/level1/M. Suffix Sum/cmake-build-debug/CMakeFiles/M__Suffix_Sum.dir
+D:/problem solving/level1/M. Suffix Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/M. Suffix Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

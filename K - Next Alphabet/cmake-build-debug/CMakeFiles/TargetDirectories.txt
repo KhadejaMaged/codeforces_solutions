@@ -1,0 +1,3 @@
+D:/problem solving/level1/K - Next Alphabet/cmake-build-debug/CMakeFiles/K___Next_Alphabet_.dir
+D:/problem solving/level1/K - Next Alphabet/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/K - Next Alphabet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

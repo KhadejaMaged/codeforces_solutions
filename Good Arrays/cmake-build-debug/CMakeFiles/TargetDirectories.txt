@@ -1,0 +1,3 @@
+D:/problem solving/level1/Good Arrays/cmake-build-debug/CMakeFiles/Good_Arrays.dir
+D:/problem solving/level1/Good Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/Good Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

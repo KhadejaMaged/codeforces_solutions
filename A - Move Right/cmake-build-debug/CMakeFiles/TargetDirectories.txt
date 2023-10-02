@@ -1,0 +1,3 @@
+D:/problem solving/level1/A - Move Right/cmake-build-debug/CMakeFiles/A___Move_Right.dir
+D:/problem solving/level1/A - Move Right/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/A - Move Right/cmake-build-debug/CMakeFiles/rebuild_cache.dir

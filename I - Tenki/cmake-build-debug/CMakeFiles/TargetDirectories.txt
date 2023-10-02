@@ -1,0 +1,3 @@
+D:/problem solving/level1/I - Tenki/cmake-build-debug/CMakeFiles/I___Tenki_.dir
+D:/problem solving/level1/I - Tenki/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/I - Tenki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

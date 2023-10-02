@@ -1,0 +1,3 @@
+D:/problem solving/level2/Range Xor Queries/cmake-build-debug/CMakeFiles/Range_Xor_Queries.dir
+D:/problem solving/level2/Range Xor Queries/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level2/Range Xor Queries/cmake-build-debug/CMakeFiles/rebuild_cache.dir

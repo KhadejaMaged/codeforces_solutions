@@ -1,0 +1,3 @@
+D:/problem solving/level1/Word on the Paper/cmake-build-debug/CMakeFiles/Word_on_the_Paper.dir
+D:/problem solving/level1/Word on the Paper/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/Word on the Paper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

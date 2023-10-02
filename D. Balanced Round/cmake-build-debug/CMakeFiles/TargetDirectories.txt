@@ -1,0 +1,3 @@
+D:/problem solving/level1/D. Balanced Round/cmake-build-debug/CMakeFiles/D__Balanced_Round_.dir
+D:/problem solving/level1/D. Balanced Round/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/D. Balanced Round/cmake-build-debug/CMakeFiles/rebuild_cache.dir

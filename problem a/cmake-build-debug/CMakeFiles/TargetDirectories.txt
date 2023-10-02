@@ -1,0 +1,3 @@
+D:/problem solving/level1/problem a/cmake-build-debug/CMakeFiles/problem_a.dir
+D:/problem solving/level1/problem a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/problem a/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/problem solving/level1/Longest Divisors Interval/cmake-build-debug/CMakeFiles/Longest_Divisors_Interval.dir
+D:/problem solving/level1/Longest Divisors Interval/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/Longest Divisors Interval/cmake-build-debug/CMakeFiles/rebuild_cache.dir

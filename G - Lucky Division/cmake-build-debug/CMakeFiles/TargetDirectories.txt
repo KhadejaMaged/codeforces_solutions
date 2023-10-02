@@ -1,0 +1,3 @@
+D:/problem solving/level1/G - Lucky Division/cmake-build-debug/CMakeFiles/G___Lucky_Division.dir
+D:/problem solving/level1/G - Lucky Division/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/problem solving/level1/G - Lucky Division/cmake-build-debug/CMakeFiles/rebuild_cache.dir
